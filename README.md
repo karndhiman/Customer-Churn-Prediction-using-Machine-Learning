@@ -1,4 +1,4 @@
-📞 Customer Churn Prediction
+## 📞 Customer Churn Prediction
 🔍 Project Overview
 
 This project predicts customer churn using machine learning. It includes:
